@@ -1,0 +1,1 @@
+Это spring security приложение
